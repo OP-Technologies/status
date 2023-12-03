@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/op-technologies.github.io.ico",
     "slug": "op-technologies-website",
     "status": "up",
-    "uptime": "0.46%",
-    "uptimeDay": "0.46%",
-    "uptimeWeek": "0.46%",
-    "uptimeMonth": "0.46%",
-    "uptimeYear": "0.46%",
-    "time": 44,
-    "timeDay": 44,
-    "timeWeek": 44,
-    "timeMonth": 44,
-    "timeYear": 44,
-    "dailyMinutesDown": {
-      "2023-12-03": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 70,
+    "timeDay": 70,
+    "timeWeek": 70,
+    "timeMonth": 70,
+    "timeYear": 70,
+    "dailyMinutesDown": {}
   },
   {
     "name": "OP Technologies Status Page",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 23,
-    "timeDay": 23,
-    "timeWeek": 23,
-    "timeMonth": 23,
-    "timeYear": 23,
+    "time": 114,
+    "timeDay": 114,
+    "timeWeek": 114,
+    "timeMonth": 114,
+    "timeYear": 114,
     "dailyMinutesDown": {}
   }
 ]
